@@ -63,4 +63,4 @@ jobs:
           app-name: 'learningtek'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_305C2A8836264C53859F9B4CD4588337 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_837B60F6827A4D8E82877D686E31E7D6 }}
