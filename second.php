@@ -1,4 +1,4 @@
-<?php
+
 <head>
 <title>Second page</title>
 </head>
@@ -7,4 +7,3 @@
   <h1>This is the second page</h1>
 </body>
 
-?>
